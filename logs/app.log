@@ -1,0 +1,56 @@
+2025-03-26 02:09:35,347 INFO Password generated with length 25 (digits: False, special: False)
+2025-03-26 02:09:52,649 INFO Application started in CLI mode
+2025-03-26 02:09:52,653 INFO Password generated with length 25 (digits: False, special: False)
+2025-03-26 02:10:09,053 INFO Application started in CLI mode
+2025-03-26 02:10:18,024 INFO Application started in CLI mode
+2025-03-26 02:10:43,665 INFO Application started in CLI mode
+2025-03-26 02:10:43,679 INFO User registered: adam
+2025-03-26 02:11:12,754 INFO Application started in CLI mode
+2025-03-26 02:11:12,757 INFO User logged in: adam
+2025-03-26 02:11:51,220 INFO Application started in CLI mode
+2025-03-26 02:11:57,343 INFO Application started in CLI mode
+2025-03-26 02:12:37,291 INFO Application started in CLI mode
+2025-03-26 02:12:54,711 INFO Application started in CLI mode
+2025-03-26 02:12:54,715 INFO User logged in: adam
+2025-03-26 02:12:56,848 INFO Application started in CLI mode
+2025-03-26 02:15:29,846 INFO Application started in CLI mode
+2025-03-26 02:15:44,058 INFO Application started in CLI mode
+2025-03-26 02:15:49,086 INFO User authenticated: adam
+2025-03-26 02:16:02,354 INFO Application started in CLI mode
+2025-03-26 02:16:05,754 INFO User authenticated: adam
+2025-03-26 02:17:46,933 INFO Application started in CLI mode
+2025-03-26 02:17:50,490 INFO User authenticated: adam
+2025-03-26 02:17:50,491 INFO File test.txt encrypted to test.txt.enc using AES by user adam
+2025-03-26 02:18:34,627 INFO Application started in CLI mode
+2025-03-26 02:18:38,983 INFO User authenticated: adam
+2025-03-26 02:18:48,355 INFO Application started in CLI mode
+2025-03-26 02:18:51,708 INFO User authenticated: adam
+2025-03-26 02:18:51,709 INFO File test.txt encrypted to test.txt.enc using AES by user adam
+2025-03-26 02:19:01,558 INFO Application started in CLI mode
+2025-03-26 02:19:05,431 INFO User authenticated: adam
+2025-03-26 02:19:05,431 INFO File test.txt.enc decrypted to test.txt using AES by user adam
+2025-03-26 02:27:22,451 INFO Application started in CLI mode
+2025-03-26 02:27:36,363 INFO Application started in CLI mode
+2025-03-26 02:27:40,304 INFO User authenticated: adam
+2025-03-26 02:27:40,304 INFO File test.txt encrypted to test.txt.acrypt using AES by user adam
+2025-03-26 02:28:03,820 INFO Application started in CLI mode
+2025-03-26 02:28:06,529 INFO User authenticated: adam
+2025-03-26 02:28:06,529 INFO File test.txt.acrypt encrypted to test.txt.acrypt.acrypt using AES by user adam
+2025-03-26 02:28:31,678 INFO Application started in CLI mode
+2025-03-26 02:28:35,753 INFO Application started in CLI mode
+2025-03-26 02:28:39,394 INFO User authenticated: adam
+2025-03-26 02:28:39,394 INFO File test.txt.acrypt decrypted to test.txt using AES by user adam
+2025-03-26 02:29:24,076 INFO Application started in CLI mode
+2025-03-26 02:29:26,999 INFO User authenticated: adam
+2025-03-26 02:29:27,000 INFO File test.jpeg encrypted to test.jpeg.acrypt using AES by user adam
+2025-03-26 02:30:03,273 INFO Application started in CLI mode
+2025-03-26 02:30:06,415 INFO User authenticated: adam
+2025-03-26 02:30:06,416 INFO File test.jpeg.acrypt decrypted to test.jpeg using AES by user adam
+2025-03-26 02:30:18,922 INFO Application started in CLI mode
+2025-03-26 02:30:27,398 INFO User authenticated: adam
+2025-03-26 02:30:27,398 INFO File test.jpeg.acrypt decrypted to test.jpeg using AES by user adam
+2025-03-26 02:42:04,616 INFO Application started in CLI mode
+2025-03-26 02:42:22,056 INFO Application started in CLI mode
+2025-03-26 02:44:04,657 INFO Application started in CLI mode
+2025-03-26 02:44:08,010 INFO User authenticated: adam
+2025-03-26 02:44:08,010 INFO 📁 No files found for user: adam
